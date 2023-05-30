@@ -47,3 +47,14 @@ li{
     margin: 500px auto 0 auto;
     width: max-content;
 }
+
+.jelentkezes{
+    width: 100%;
+    font-size: 100px;
+    color: black;
+    text-decoration: none;
+    border: 5px solid black;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 10px;
+}
